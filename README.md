@@ -63,6 +63,9 @@ choco install sublimetext3
 echo Installing androidstudio
 choco install androidstudio
 
+echo Installing unity
+choco install unity
+
 echo Installing slack
 choco install slack
 
@@ -86,3 +89,7 @@ choco install discord
 
 echo Installing teamspeak
 choco install teamspeak
+
+echo Installing openvpn
+choco install openvpn
+
