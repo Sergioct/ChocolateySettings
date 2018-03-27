@@ -80,3 +80,9 @@ choco install uplay
 
 echo Installing obs
 choco install obs-studio
+
+echo Installing discord
+choco install discord
+
+echo Installing teamspeak
+choco install teamspeak
